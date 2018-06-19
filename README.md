@@ -1,4 +1,4 @@
-# Signals Processing Project 
+# Signals-Processing-Project 
 [Educational Project]
 
 The project draws Continuous and Discrete periodic signal, and calculates some Equations.
