@@ -1,4 +1,5 @@
-# Signals Processing Project
+# Signals Processing Project [Educational Project]
+
 The project draws Continuous and Discrete periodic signal, and calculates some Equations.
 
 The file "Practical Task Spring 2017.pdf" contains the requirements for the project.
